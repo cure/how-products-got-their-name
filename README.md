@@ -14,7 +14,7 @@
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
-    - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
+    - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-framework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
     - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
     - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
